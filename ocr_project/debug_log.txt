@@ -1,0 +1,6882 @@
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35.0
+
+[HEART] Matched parameters:
+age: 35.0
+sex: 10.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 14.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35.0
+Gender: 10.0
+Total_Bilirubin: 15.0
+Direct_Bilirubin: 0.0
+Alkaline_Phosphotase: 25.1
+Alamine_Aminotransferase: 35.0
+Aspartate_Aminotransferase: 36.0
+Total_Protiens: 6.9
+Albumin: 4.6
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 1000100012876.0
+age: 35.0
+bp: 0
+sg: 36.0
+al: 4.6
+su: 0
+rbc: 0.0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 4.6
+sc: 10.0
+sod: 0
+pot: 0
+hemo: 15.0
+pcv: 0
+wc: 0
+rc: 10002304932.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 12.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35.0
+Sex: 10.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35.0
+
+[HEART] Matched parameters:
+age: 35.0
+sex: 10.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 14.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35.0
+Gender: 1
+Total_Bilirubin: 15.0
+Direct_Bilirubin: 0.0
+Alkaline_Phosphotase: 25.1
+Alamine_Aminotransferase: 35.0
+Aspartate_Aminotransferase: 36.0
+Total_Protiens: 6.9
+Albumin: 4.6
+Albumin_and_Globulin_Ratio: 2.0
+
+[KIDNEY] Matched parameters:
+id: 1000100012876.0
+age: 35.0
+bp: 0
+sg: 36.0
+al: 4.6
+su: 0
+rbc: 0.0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 4.6
+sc: 10.0
+sod: 0
+pot: 0
+hemo: 15.0
+pcv: 0
+wc: 0
+rc: 10002304932.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 12.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35.0
+Sex: 10.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35.0
+
+[HEART] Matched parameters:
+age: 35.0
+sex: 10.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 14.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35.0
+Gender: 1
+Total_Bilirubin: 15.0
+Direct_Bilirubin: 0.0
+Alkaline_Phosphotase: 25.1
+Alamine_Aminotransferase: 35.0
+Aspartate_Aminotransferase: 36.0
+Total_Protiens: 6.9
+Albumin: 4.6
+Albumin_and_Globulin_Ratio: 2.0
+
+[KIDNEY] Matched parameters:
+id: 1000100012876.0
+age: 35.0
+bp: 0
+sg: 36.0
+al: 4.6
+su: 0
+rbc: 0.0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 4.6
+sc: 10.0
+sod: 0
+pot: 0
+hemo: 15.0
+pcv: 0
+wc: 0
+rc: 10002304932.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 12.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35.0
+Sex: 10.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 1.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 55.0
+
+[HEART] Matched parameters:
+age: 55.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 180.0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 55.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 55.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 8300.0
+Aspartate_Aminotransferase: 1.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 111.0
+age: 55.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 75.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 111.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 55.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 125.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 2.0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 2.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 125.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35.0
+
+[HEART] Matched parameters:
+age: 35.0
+sex: 10.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 14.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35.0
+Gender: 1
+Total_Bilirubin: 15.0
+Direct_Bilirubin: 0.0
+Alkaline_Phosphotase: 25.1
+Alamine_Aminotransferase: 35.0
+Aspartate_Aminotransferase: 36.0
+Total_Protiens: 6.9
+Albumin: 4.6
+Albumin_and_Globulin_Ratio: 2.0
+
+[KIDNEY] Matched parameters:
+id: 1000100012876.0
+age: 35.0
+bp: 0
+sg: 36.0
+al: 4.6
+su: 0
+rbc: 0.0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 4.6
+sc: 10.0
+sod: 0
+pot: 0
+hemo: 15.0
+pcv: 0
+wc: 0
+rc: 10002304932.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 12.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35.0
+Sex: 10.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 11.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 42.0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 55.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 569.0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 3.0
+ane: 569.0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 19.0
+
+[HEART] Matched parameters:
+age: 19.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 15.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 19.0
+Gender: 0
+Total_Bilirubin: 8.0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 2.0
+Aspartate_Aminotransferase: 2.0
+Total_Protiens: 2.0
+Albumin: 35.0
+Albumin_and_Globulin_Ratio: 138.0
+
+[KIDNEY] Matched parameters:
+id: 15.0
+age: 19.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 35.0
+sc: 1084.0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 8.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 19.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 19.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 125.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 2.0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 2.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 125.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 2.0
+
+[HEART] Matched parameters:
+age: 2.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 2.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 2.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 2.0
+age: 2.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 2.0
+sod: 0
+pot: 2.0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 20.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 2.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35.0
+
+[HEART] Matched parameters:
+age: 35.0
+sex: 10.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 14.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35.0
+Gender: 1
+Total_Bilirubin: 15.0
+Direct_Bilirubin: 0.0
+Alkaline_Phosphotase: 25.1
+Alamine_Aminotransferase: 35.0
+Aspartate_Aminotransferase: 36.0
+Total_Protiens: 6.9
+Albumin: 4.6
+Albumin_and_Globulin_Ratio: 2.0
+
+[KIDNEY] Matched parameters:
+id: 1000100012876.0
+age: 35.0
+bp: 0
+sg: 36.0
+al: 4.6
+su: 0
+rbc: 0.0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 4.6
+sc: 10.0
+sod: 0
+pot: 0
+hemo: 15.0
+pcv: 0
+wc: 0
+rc: 10002304932.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 12.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35.0
+Sex: 10.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35.0
+
+[HEART] Matched parameters:
+age: 35.0
+sex: 10.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 14.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35.0
+Gender: 1
+Total_Bilirubin: 15.0
+Direct_Bilirubin: 0.0
+Alkaline_Phosphotase: 25.1
+Alamine_Aminotransferase: 35.0
+Aspartate_Aminotransferase: 36.0
+Total_Protiens: 6.9
+Albumin: 4.6
+Albumin_and_Globulin_Ratio: 2.0
+
+[KIDNEY] Matched parameters:
+id: 1000100012876.0
+age: 35.0
+bp: 0
+sg: 36.0
+al: 4.6
+su: 0
+rbc: 0.0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 4.6
+sc: 10.0
+sod: 0
+pot: 0
+hemo: 15.0
+pcv: 0
+wc: 0
+rc: 10002304932.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 12.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35.0
+Sex: 10.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 11.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 42.0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 55.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 569.0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 3.0
+ane: 569.0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 11.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 42.0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 55.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 569.0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 3.0
+ane: 569.0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 1.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 55.0
+
+[HEART] Matched parameters:
+age: 55.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 180.0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 55.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 55.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 8300.0
+Aspartate_Aminotransferase: 1.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 111.0
+age: 55.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 75.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 111.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 55.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 2.0
+
+[HEART] Matched parameters:
+age: 2.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 2.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 2.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 2.0
+age: 2.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 2.0
+sod: 0
+pot: 2.0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 20.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 2.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 2.0
+
+[HEART] Matched parameters:
+age: 2.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 2.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 2.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 2.0
+age: 2.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 2.0
+sod: 0
+pot: 2.0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 20.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 2.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 125.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 2.0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 2.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 125.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 1.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 55.0
+
+[HEART] Matched parameters:
+age: 55.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 180.0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 55.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 55.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 8300.0
+Aspartate_Aminotransferase: 1.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 111.0
+age: 55.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 111.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 55.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 120.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 1.0
+BMI: 7.0
+DiabetesPedigreeFunction: 0
+Age: 25.0
+
+[HEART] Matched parameters:
+age: 25.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 1.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 25.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 120.0
+Total_Protiens: 1.0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 704100.0
+age: 25.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 72.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 1.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 25.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 96.8
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 23.0
+
+[HEART] Matched parameters:
+age: 23.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 23.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 1.0
+age: 23.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 1.0
+sod: 0
+pot: 0
+hemo: 1.0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 23.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 120.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 1.0
+BMI: 7.0
+DiabetesPedigreeFunction: 0
+Age: 25.0
+
+[HEART] Matched parameters:
+age: 25.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 1.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 25.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 120.0
+Total_Protiens: 1.0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 704100.0
+age: 25.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 72.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 1.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 25.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 120.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 1.0
+BMI: 7.0
+DiabetesPedigreeFunction: 0
+Age: 25.0
+
+[HEART] Matched parameters:
+age: 25.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 1.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 25.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 120.0
+Total_Protiens: 1.0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 704100.0
+age: 25.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 72.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 1.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 25.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 96.8
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 23.0
+
+[HEART] Matched parameters:
+age: 23.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 23.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 1.0
+age: 23.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 1.0
+sod: 0
+pot: 0
+hemo: 1.0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 23.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 96.8
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 23.0
+
+[HEART] Matched parameters:
+age: 23.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 23.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 1.0
+age: 23.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 1.0
+sod: 0
+pot: 0
+hemo: 1.0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 23.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 120.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 1.0
+BMI: 7.0
+DiabetesPedigreeFunction: 0
+Age: 25.0
+
+[HEART] Matched parameters:
+age: 25.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 1.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 25.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 120.0
+Total_Protiens: 1.0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 704100.0
+age: 25.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 72.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 1.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 25.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 120.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 1.0
+BMI: 7.0
+DiabetesPedigreeFunction: 0
+Age: 25.0
+
+[HEART] Matched parameters:
+age: 25.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 1.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 25.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 120.0
+Total_Protiens: 1.0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 704100.0
+age: 25.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 72.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 1.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 25.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 120.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 1.0
+BMI: 7.0
+DiabetesPedigreeFunction: 0
+Age: 25.0
+
+[HEART] Matched parameters:
+age: 25.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 1.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 25.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 120.0
+Total_Protiens: 1.0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 704100.0
+age: 25.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 72.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 1.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 25.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 120.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 25.0
+
+[HEART] Matched parameters:
+age: 25.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 91.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 25.0
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 120.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 25.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 7.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 25.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 120.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 25.0
+
+[HEART] Matched parameters:
+age: 25.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 91.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 25.0
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 120.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 25.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 7.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 25.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35.0
+
+[HEART] Matched parameters:
+age: 35.0
+sex: 10.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 8.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35.0
+Gender: 0
+Total_Bilirubin: 14.0
+Direct_Bilirubin: 12.0
+Alkaline_Phosphotase: 25.1
+Alamine_Aminotransferase: 35.0
+Aspartate_Aminotransferase: 36.0
+Total_Protiens: 6.9
+Albumin: 4.6
+Albumin_and_Globulin_Ratio: 2.0
+
+[KIDNEY] Matched parameters:
+id: 1000100012876.0
+age: 35.0
+bp: 0
+sg: 36.0
+al: 4.6
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 4.6
+sc: 0
+sod: 0
+pot: 0
+hemo: 15.0
+pcv: 0
+wc: 0
+rc: 10002304932.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 4.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35.0
+Sex: 10.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 60.0
+
+[HEART] Matched parameters:
+age: 60.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 12.3
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 60.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0.03
+age: 60.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 24.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 60.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 25.0
+
+[HEART] Matched parameters:
+age: 25.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 91.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 25.0
+Gender: 1
+Total_Bilirubin: 0.9
+Direct_Bilirubin: 0.2
+Alkaline_Phosphotase: 30.0
+Alamine_Aminotransferase: 10.0
+Aspartate_Aminotransferase: 10.0
+Total_Protiens: 10.0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 25.0
+bp: 0
+sg: 10.0
+al: 2.0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 7.0
+ane: 1.0
+
+[DENGUE] Matched parameters:
+Age: 25.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 689578.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 2.0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 689578.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 45.0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 6.5
+Albumin: 3.5
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 3.5
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 3.5
+sc: 2.0
+sod: 100.0
+pot: 6.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 100.0
+SkinThickness: 0
+Insulin: 0
+BMI: 18.5
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 150.0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 689578.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 2.0
+sod: 0
+pot: 0
+hemo: 1.0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 689578.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 5.2
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 39645.0
+sc: 87.75
+sod: 0
+pot: 0
+hemo: 12.5
+pcv: 57.5
+wc: 9000.0
+rc: 5.2
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 9000.0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 150000.0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 689578.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 5.2
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 39645.0
+sc: 87.75
+sod: 0
+pot: 0
+hemo: 12.5
+pcv: 57.5
+wc: 9000.0
+rc: 5.2
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 9000.0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 150000.0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 689578.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 1.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 689578.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 1.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 689578.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 689578.0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 5.2
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 39645.0
+sc: 87.75
+sod: 0
+pot: 0
+hemo: 12.5
+pcv: 57.5
+wc: 9000.0
+rc: 5.2
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 9000.0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 150000.0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 3.0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 5.2
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 39645.0
+sc: 87.75
+sod: 2.0
+pot: 57.5
+hemo: 12.5
+pcv: 57.5
+wc: 9000.0
+rc: 5.2
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 12.5
+ane: 2.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 9000.0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 150000.0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 3.0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 0
+sod: 7.0
+pot: 1.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 0.9
+ane: 25.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 3.0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 0
+sod: 7.0
+pot: 1.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 0.9
+ane: 25.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 3.0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 0
+sod: 7.0
+pot: 1.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 0.9
+ane: 25.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 3.0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 5.2
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 39645.0
+sc: 87.75
+sod: 2.0
+pot: 57.5
+hemo: 12.5
+pcv: 57.5
+wc: 9000.0
+rc: 5.2
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 12.5
+ane: 2.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 9000.0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 150000.0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 3.0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 0
+sod: 7.0
+pot: 1.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 0.9
+ane: 25.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 3.0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 0
+sod: 7.0
+pot: 1.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 0.9
+ane: 25.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 3.0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 0
+sod: 7.0
+pot: 1.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 0.9
+ane: 25.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 0
+sod: 7.0
+pot: 1.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 0.9
+ane: 25.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 5.2
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 39645.0
+sc: 87.75
+sod: 2.0
+pot: 57.5
+hemo: 12.5
+pcv: 57.5
+wc: 9000.0
+rc: 5.2
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 12.5
+ane: 2.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 9000.0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 150000.0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 125.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 45.0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 6.5
+Albumin: 3.5
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 3.5
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 3.5
+sc: 2.0
+sod: 100.0
+pot: 6.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 125.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35.0
+
+[HEART] Matched parameters:
+age: 35.0
+sex: 10.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 14.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35.0
+Gender: 1
+Total_Bilirubin: 15.0
+Direct_Bilirubin: 0.0
+Alkaline_Phosphotase: 25.1
+Alamine_Aminotransferase: 35.0
+Aspartate_Aminotransferase: 36.0
+Total_Protiens: 6.9
+Albumin: 4.6
+Albumin_and_Globulin_Ratio: 2.0
+
+[KIDNEY] Matched parameters:
+id: 1000100012876.0
+age: 35.0
+bp: 0
+sg: 36.0
+al: 4.6
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 4.6
+sc: 10.0
+sod: 94.0
+pot: 55.0
+hemo: 15.0
+pcv: 0
+wc: 0
+rc: 10002304932.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 4.6
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35.0
+Sex: 10.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 5.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 4.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 5.0
+pot: 5.0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 77.0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 11.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 55.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 569.0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 7.0
+pot: 11.0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 3.0
+ane: 569.0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 125.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 45.0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 6.5
+Albumin: 3.5
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 3.5
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 3.5
+sc: 2.0
+sod: 100.0
+pot: 6.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 125.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 3.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 2.0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 555.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 0
+sod: 7.0
+pot: 1.8
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 0.9
+ane: 25.0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 3.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35.0
+
+[HEART] Matched parameters:
+age: 35.0
+sex: 10.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 14.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35.0
+Gender: 1
+Total_Bilirubin: 15.0
+Direct_Bilirubin: 0.0
+Alkaline_Phosphotase: 25.1
+Alamine_Aminotransferase: 35.0
+Aspartate_Aminotransferase: 36.0
+Total_Protiens: 6.9
+Albumin: 4.6
+Albumin_and_Globulin_Ratio: 2.0
+
+[KIDNEY] Matched parameters:
+id: 1000100012876.0
+age: 35.0
+bp: 0
+sg: 36.0
+al: 4.6
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 4.6
+sc: 10.0
+sod: 94.0
+pot: 55.0
+hemo: 15.0
+pcv: 0
+wc: 0
+rc: 10002304932.0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 4.6
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35.0
+Sex: 10.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 11.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 55.0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 569.0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 7.0
+pot: 11.0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 3.0
+ane: 569.0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 1.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 125.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 2.0
+sod: 2.0
+pot: 5.7
+hemo: 2.0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 125.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 217.0
+SkinThickness: 0
+Insulin: 0
+BMI: 18.5
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 217.0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 25.95
+hemo: 0
+pcv: 0
+wc: 0
+rc: 18.5
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 18.5
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 1.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 125.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 2.0
+sod: 2.0
+pot: 5.7
+hemo: 2.0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 125.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 1.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 125.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 2.0
+sod: 2.0
+pot: 5.7
+hemo: 2.0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 125.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 1.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21.0
+
+[HEART] Matched parameters:
+age: 21.0
+sex: 125.0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 105.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21.0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 556.0
+age: 21.0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 2.0
+sc: 2.0
+sod: 2.0
+pot: 5.7
+hemo: 2.0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 2.0
+cad: 0
+appet: 0
+pe: 2.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21.0
+Sex: 125.0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 7.0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 8.9
+
+[HEART] Matched parameters:
+age: 8.9
+sex: 8.9
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 8.9
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 8.9
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 8.9
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 8.9
+age: 8.9
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 7.0
+sc: 7.0
+sod: 8.9
+pot: 5.7
+hemo: 8.9
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 8.9
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 8.9
+Sex: 8.9
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35.0
+
+[HEART] Matched parameters:
+age: 35.0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 75000.0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35.0
+Gender: 1
+Total_Bilirubin: 14.0
+Direct_Bilirubin: 12.0
+Alkaline_Phosphotase: 25.1
+Alamine_Aminotransferase: 35.0
+Aspartate_Aminotransferase: 36.0
+Total_Protiens: 6.9
+Albumin: 4.6
+Albumin_and_Globulin_Ratio: 2.0
+
+[KIDNEY] Matched parameters:
+id: 4.0
+age: 35.0
+bp: 0
+sg: 36.0
+al: 4.6
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 4.6
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0.0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35.0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 21
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 21
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 21
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 0
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 0
+Gender: 0
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 0
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0
+
+[DIABETES] Matched parameters:
+Pregnancies: 0
+Glucose: 0
+BloodPressure: 0
+SkinThickness: 0
+Insulin: 0
+BMI: 0
+DiabetesPedigreeFunction: 0
+Age: 35
+
+[HEART] Matched parameters:
+age: 0
+sex: 0
+cp: 0
+trestbps: 0
+chol: 0
+fbs: 0
+restecg: 0
+thalach: 0
+exang: 0
+oldpeak: 0
+slope: 0
+ca: 0
+thal: 0
+
+[LIVER] Matched parameters:
+Age: 35
+Gender: 1
+Total_Bilirubin: 0
+Direct_Bilirubin: 0
+Alkaline_Phosphotase: 0
+Alamine_Aminotransferase: 0
+Aspartate_Aminotransferase: 0
+Total_Protiens: 0
+Albumin: 0
+Albumin_and_Globulin_Ratio: 0
+
+[KIDNEY] Matched parameters:
+id: 0
+age: 0
+bp: 0
+sg: 0
+al: 0
+su: 0
+rbc: 0
+pc: 0
+pcc: 0
+ba: 0
+bgr: 0
+bu: 0
+sc: 0
+sod: 0
+pot: 0
+hemo: 0
+pcv: 0
+wc: 0
+rc: 0
+htn: 0
+dm: 0
+cad: 0
+appet: 0
+pe: 0
+ane: 0
+
+[DENGUE] Matched parameters:
+Age: 35
+Sex: 0
+Haemoglobin: 0
+WBC Count: 0
+Differential Count: 0
+RBC PANEL: 0
+Platelet Count: 0
+PDW: 0

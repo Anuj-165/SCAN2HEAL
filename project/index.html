@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Scan2Heal - AI-powered healthcare platform with advanced OCR, medical diagnosis, and secure health vault. Scan, Understand, Heal." />
+    <meta name="keywords" content="healthcare, AI diagnosis, medical OCR, health vault, medicine scanner, medical reports" />
+    <meta name="author" content="Scan2Heal" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://scan2heal.com/" />
+    <meta property="og:title" content="Scan2Heal - AI-Powered Healthcare Platform" />
+    <meta property="og:description" content="Revolutionary healthcare platform with AI diagnosis, OCR medical reports, and secure health vault. Experience the future of healthcare." />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://scan2heal.com/" />
+    <meta property="twitter:title" content="Scan2Heal - AI-Powered Healthcare Platform" />
+    <meta property="twitter:description" content="Revolutionary healthcare platform with AI diagnosis, OCR medical reports, and secure health vault." />
+    
+    <title>Scan2Heal - AI-Powered Healthcare Platform | Scan, Understand, Heal</title>
+    
+    <!-- Preconnect to external domains -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://images.pexels.com">
+    
+    <!-- Critical CSS for fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <!-- Theme color for mobile browsers -->
+    <meta name="theme-color" content="#3b82f6" />
+    <meta name="msapplication-TileColor" content="#3b82f6" />
+    
+    <!-- Prevent FOUC (Flash of Unstyled Content) -->
+    <style>
+      html { visibility: hidden; opacity: 0; }
+    </style>
+    
+    <!-- Medical structured data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "Scan2Heal",
+      "description": "AI-powered healthcare platform with medical diagnosis, OCR scanning, and secure health vault",
+      "url": "https://scan2heal.com",
+      "medicalAudience": [
+        {
+          "@type": "MedicalAudience",
+          "audienceType": "Patient"
+        },
+        {
+          "@type": "MedicalAudience", 
+          "audienceType": "HealthcareProfessional"
+        }
+      ],
+      "about": {
+        "@type": "MedicalCondition",
+        "name": "General Healthcare"
+      }
+    }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    
+    <!-- Show content after fonts load -->
+    <script>
+      document.fonts.ready.then(() => {
+        document.documentElement.style.visibility = 'visible';
+        document.documentElement.style.opacity = '1';
+      });
+    </script>
+  </body>
+</html>

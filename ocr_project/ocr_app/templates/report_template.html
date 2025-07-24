@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Medical Analysis Report</title>
+  <style>
+    body { font-family: Helvetica, sans-serif; }
+    h1, h2 { color: #2c3e50; }
+    ul { margin-top: 0; }
+  </style>
+</head>
+<body>
+  <h1>Medical Report Analysis</h1>
+  <p><strong>Date:</strong> {{ date_time }}</p>
+
+  <h2>🧾 OCR Extracted Text</h2>
+  <pre>{{ ocr_text }}</pre>
+
+  <h2>📊 Extracted Features</h2>
+  <ul>
+  {% for key, val in extracted_features.items %}
+    <li><strong>{{ key|capfirst }}:</strong> {{ val }}</li>
+  {% endfor %}
+  </ul>
+
+  <h2>🧬 Predicted Disease</h2>
+  <p>{{ prediction }}</p>
+
+  <h2>💊 Recommended Medicines</h2>
+  <ul>
+  {% for med in medicines %}
+    <li>{{ med.name }} - <a href="{{ med.link }}">{{ med.link }}</a></li>
+  {% endfor %}
+  </ul>
+
+  <h2>⚠️ Side Effects</h2>
+  {% if side_effects %}
+    <ul>
+    {% for effect in side_effects %}
+      <li>{{ effect }}</li>
+    {% endfor %}
+    </ul>
+  {% else %}
+    <p>No side effect data found.</p>
+  {% endif %}
+
+  <h2>🩺 Conclusion</h2>
+  <p>{{ conclusion }}</p>
+</body>
+</html>
